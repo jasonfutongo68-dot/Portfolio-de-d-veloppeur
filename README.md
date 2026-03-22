@@ -9,7 +9,8 @@ Je crée des scripts et du code sur mesure. Simple, propre, efficace.
 
 | Projet | Prix |
 |--------|------|
-| Générateur de mots de passe moderne |Générateur avec options (longueur, majuscules, symboles ) | 10$ | [voir la démo] (https://jasonfutongo68-dot.github.io/Portfolio-de-d-veloppeur/)
+| Générateur de mots de passe moderne | 10$ |
+| https://jasonfutongo68-dot.github.io/Portfolio-de-d-veloppeur/ |
 
 ---
 
