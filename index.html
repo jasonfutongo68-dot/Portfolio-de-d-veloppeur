@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Générateur de mot de passe moderne</title>
+    <link rel="stylesheet" href="Style.css">
+</head>
+<body>
+
+<div class="card">
+    <h1>🔐 Générateur de mot de passe</h1>
+    <div class="subtitle">Créez des mots de passe sécurisés en un clic</div>
+
+    <div class="password-display">
+        <span id="password">Cliquez sur Générer</span>
+        <button id="copyBtn">Copier</button>
+    </div>
+
+    <div class="option">
+        <label>Longueur : <span id="lengthValue">12</span></label>
+        <input type="range" id="length" min="4" max="32" value="12">
+    </div>
+
+    <div class="checkboxes">
+        <label>
+            <input type="checkbox" id="uppercase" checked> Majuscules (A-Z)
+        </label>
+        <label>
+            <input type="checkbox" id="lowercase" checked> Minuscules (a-z)
+        </label>
+        <label>
+            <input type="checkbox" id="numbers" checked> Chiffres (0-9)
+        </label>
+        <label>
+            <input type="checkbox" id="symbols" checked> Symboles (!@#$)
+        </label>
+    </div>
+
+    <button class="generate-btn" id="generateBtn">⚡ Générer un mot de passe</button>
+</div>
+
+<div id="toast" class="toast">✅ Mot de passe copié !</div>
+
+<script src="script.js"></script>
+
+</body>
+</html>
