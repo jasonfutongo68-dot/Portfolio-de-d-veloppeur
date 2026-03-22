@@ -1,15 +1,15 @@
 # Jason Futongo
 
-## 🔥 Qui suis-je ?
+##  Qui suis-je ?
 Je crée des scripts et du code sur mesure. Simple, propre, efficace.
 
 ---
 
-## 📦 Projets à vendre
+## 📦 Projets 
 
-| Projet | Prix |
-|--------|------|
-| Générateur de mots de passe moderne | 10$ |
+| Projet |
+|--------|
+| Générateur de mots de passe moderne |
 | https://jasonfutongo68-dot.github.io/Portfolio-de-d-veloppeur/ |
 
 ---
