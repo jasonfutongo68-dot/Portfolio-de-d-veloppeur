@@ -67,7 +67,6 @@ copyBtn.addEventListener('click', () => {
 
 lengthSlider.addEventListener('input', () => {
     lengthValue.textContent = lengthSlider.value;
-    // updatePassword();
 });
 
 uppercaseCheck.addEventListener('change', () => {});
