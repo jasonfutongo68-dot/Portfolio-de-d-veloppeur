@@ -67,13 +67,13 @@ copyBtn.addEventListener('click', () => {
 
 lengthSlider.addEventListener('input', () => {
     lengthValue.textContent = lengthSlider.value;
-    updatePassword();
+    // updatePassword();
 });
 
-uppercaseCheck.addEventListener('change', updatePassword);
-lowercaseCheck.addEventListener('change', updatePassword);
-numbersCheck.addEventListener('change', updatePassword);
-symbolsCheck.addEventListener('change', updatePassword);
+uppercaseCheck.addEventListener('change', () => {});
+lowercaseCheck.addEventListener('change', () => {});
+numbersCheck.addEventListener('change', () => {});
+symbolsCheck.addEventListener('change', () => {});
 
 // Générer au chargement
-updatePassword();
+PasswordEl.texContent='';
