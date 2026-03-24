@@ -13,5 +13,4 @@
 ---
 
 ## 📬 Contact
-- **PayPal** : jasonfutongo68@gmail.com
 - **Email** : jasonfutongo68@gmail.com
